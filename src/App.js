@@ -1,10 +1,11 @@
 
 import './App.css';
+import Index from './routes/Index';
 
 function App() {
   return (
-    <div className="App">
-     
+    <div>
+      <Index/>
     </div>
   );
 }
